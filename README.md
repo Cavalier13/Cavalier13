@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Paulo 👋
+Estudiante de Ingeniería en Ciberseguridad (AIEP)
 
-<!--
-**Cavalier13/Cavalier13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 En qué estoy trabajando
+- Home lab SOC con Wazuh: detección de ataques mapeados a MITRE ATT&CK
 
-Here are some ideas to get you started:
+## 🛠️ Herramientas
+Wazuh · Zabbix · Cisco (CCNA-level) · Linux · Windows Server · Python · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyectos destacados
+| Proyecto | Descripción |
+|---|---|
+| [soc-homelab-wazuh](link) | SIEM + endpoints + ataques simulados + reglas propias |
+
+## 📫 Contacto
+[LinkedIn](https://www.linkedin.com/in/paulo-gamboa-17436a221/?isSelfProfile=true)
